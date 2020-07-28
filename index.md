@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Rosa, KEØVTF
 
-You can use the [editor on GitHub](https://github.com/Cantido/ke0vtf/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a programmer and computer engineer, and I got my license in May 2019 because radio is such a fun subject to learn. I love tinkering with electronics, and electromagnetism is magical, so radio is a really engaging hobby.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My shack is small; apartment living and ham radio don't mix very well. My HF rig is a QCX CW transceiver from QRP Labs, and my antenna is the MFJ-1622 apartment antenna. It's a loaded vertical, and it's all I can manage to fit in my current shack. I still need to work on my CW, I know my letters but I can only copy if you go super slow. I promise I'm working on it!
 
-### Markdown
+I also chat on the local VHF repeater with a Yaesu FT-70D. I even peek into DMR talkgroups on a Baofeng DM-1701 every once in a while. DMR is neat but it's such a pain to set up.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My goals for the year are to improve my CW speed, and to earn my Amateur Extra license. I also plan to buy a proper HF rig sometime soon. I want to get involved with SOTA, and I also want to be able to chat on SSB on the HF bands.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Cantido/ke0vtf/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I'm on [QRZ](https://www.qrz.com/db/KE0VTF), and you can find links to my social media pages at https://about.me/rosa.richter.
